@@ -1,4 +1,3 @@
-let BEDROCK;
 let users;
 import 'mongodb'
 import { ObjectId } from 'mongodb';
